@@ -1,3 +1,3 @@
 # Demo
 
-demo new file.
+demo new file!
